@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello, CI/CD!!!");
+﻿Console.WriteLine("Hello, CI/CD!!");
